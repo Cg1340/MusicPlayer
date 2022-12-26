@@ -1,0 +1,37 @@
+{
+  "VERSION": 100,
+  "show_warning": 1,
+  "font": "Minecraft AE.ttf",
+  "background_info": {
+    "image": "toasts.png",
+    "rect": [ 0, 0, 160, 32 ],
+    "scale": [ 3.0, 3.0 ]
+  },
+  "background_warn": {
+    "image": "toasts.png",
+    "rect": [ 0, 64, 160, 32 ],
+    "scale": [ 3.0, 3.0 ]
+  },
+  "music": [
+    {
+      "file": "The Truth that You Leave.flac",
+      "name": "The Truth that You Leave"
+    },
+    {
+      "file": "ChengNanHuaYiKai.flac",
+      "name": "城南花已开"
+    },
+    {
+      "file": "Take Me Hand.flac",
+      "name": "Take Me Hand"
+    },
+    {
+      "file": "Flower Dance.flac",
+      "name": "Flower Dance"
+    },
+    {
+      "file": "Timeline.ogg",
+      "name": "Timeline"
+    }
+  ]
+}
