@@ -33,6 +33,18 @@
     {
       "file": "Timeline.ogg",
       "name": "Timeline"
+    },
+    {
+      "file": "Cat.flac",
+      "name": "C418 - Cat"
+    },
+    {
+      "file": "Dog.flac",
+      "name": "C418 - Dog"
+    },
+    {
+      "file": "Wet Hands.flac",
+      "name": "C418 - Wet Hands"
     }
   ]
 }

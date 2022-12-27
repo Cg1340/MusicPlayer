@@ -1,9 +1,9 @@
-﻿
+
 cmake_minimum_required (VERSION 3.8)
 
 project ("MusicPlayer")
 
-set(SFML_DIR "D:\\SFML\\lib\\cmake\\SFML")
+set(SFML_DIR D:/SFML/lib/cmake/SFML)
 
 find_package(SFML REQUIRED COMPONENTS audio network graphics window system)
 

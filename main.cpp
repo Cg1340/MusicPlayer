@@ -220,7 +220,7 @@ int main() {
         loaded = true;
 
         sf::Sound sound;
-        sound.setVolume(10);
+        sound.setVolume(volume);
 
         std::default_random_engine e;
         e.seed(get());
