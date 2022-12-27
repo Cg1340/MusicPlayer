@@ -1,6 +1,7 @@
 {
-  "VERSION": 100,
-  "show_warning": 1,
+  "version": 100,
+  "show_warning": true,
+  "mode": "random",
   "font": "Minecraft AE.ttf",
   "background_info": {
     "image": "toasts.png",
